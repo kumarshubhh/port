@@ -63,6 +63,7 @@ const Portfolio = () => {
             style={{ height: "90%", width: "100%", objectFit: "cover" }}
             alt={imageAltText}
           />
+          
         </div>
         <div className="container">
           {projectList.map((project) => (
