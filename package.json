@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://kumarshubhh.github.io/Port",
+  "homepage": "https://kumarshubhh.github.io/PORT",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://kumarshubhh.github.io/port",
+    "build-gh": "parcel build --public-url 'https://kumarshubhh.github.io/PORT",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
