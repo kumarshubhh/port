@@ -33,19 +33,19 @@ const projectList = [
   {
     title: "Mini Project (Spotify Clone) 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "created using HTML, CSS,Responsive Design: Seamlessly adapts to any screen size for a great user experience on both desktop and mobile.💻 Technologies Used:HTML5: For structuring the Music Player interface.CSS3: To create a visually appealing and modern design.",
     url: "https://github.com/kumarshubhh/Spotify-Clone.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "MY Online Food Webpage",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Responsive Design and using HTML, CSS.",
+    url: "https://github.com/kumarshubhh/MyOnlinemeal-food-.git",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "created using HTML, CSS,Responsive Design: Seamlessly adapts to any screen size for a great user experience on both desktop and mobile.💻 Technologies Used:HTML5: CSS3: To create a visually appealing and modern design..",
     url: "https://github.com/kumarshubhh/resume.git",
   },
   
