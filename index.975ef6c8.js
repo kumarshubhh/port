@@ -27092,9 +27092,9 @@ var _stylesCss = require("./styles.css");
     email: "subhanshukumar290@gmail.com",
     gitHub: "kumarshubhh",
     instagram: "",
-    linkedIn: "shubhanshu-kumar",
+    linkedIn: "https://www.linkedin.com/in/shubhanshu-kumar-6a961525a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnOezgV63Ru6a7WPH43uWww%3D%3D",
     medium: "",
-    twitter: "subhanshu kumar",
+    twitter: "@Xmart_shubh",
     youTube: ""
 };
 const primaryColor = "#4E567E";
@@ -28762,17 +28762,17 @@ const imageAltText = "desktop with books and laptop";
  */ const projectList = [
     {
         title: "Mini Project (Spotify Clone) \uD83C\uDF89",
-        description: "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+        description: "created using HTML, CSS,Responsive Design: Seamlessly adapts to any screen size for a great user experience on both desktop and mobile.\uD83D\uDCBB Technologies Used:HTML5: For structuring the Music Player interface.CSS3: To create a visually appealing and modern design.",
         url: "https://github.com/kumarshubhh/Spotify-Clone.git"
     },
     {
-        title: "Web Development for Beginners",
-        description: "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-        url: "https://github.com/microsoft/web-dev-for-beginners"
+        title: "MY Online Food Webpage",
+        description: "Responsive Design and using HTML, CSS.",
+        url: "https://github.com/kumarshubhh/MyOnlinemeal-food-.git"
     },
     {
         title: "My Resume Site",
-        description: "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+        description: "created using HTML, CSS,Responsive Design: Seamlessly adapts to any screen size for a great user experience on both desktop and mobile.\uD83D\uDCBB Technologies Used:HTML5: CSS3: To create a visually appealing and modern design..",
         url: "https://github.com/kumarshubhh/resume.git"
     }, 
 ];
