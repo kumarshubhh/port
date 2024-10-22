@@ -31,7 +31,7 @@ const siteProps = {
   email: "subhanshukumar290@gmail.com",
   gitHub: "kumarshubhh",
   instagram: "",
-  linkedIn: "https://www.linkedin.com/in/shubhanshu-kumar-6a961525a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnOezgV63Ru6a7WPH43uWww%3D%3D",
+  linkedIn: "linkedin.com/in/shubhanshu-kumar-6a961525a",
   medium: "",
   twitter: "@Xmart_shubh",
   youTube: "",
