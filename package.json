@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://kumarshubhh.github.io/PORT'",
+    "build-gh": "parcel build --public-url 'https://kumarshubhh.github.io/port'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
