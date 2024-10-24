@@ -47,7 +47,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation and Web Design. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I have worked on Frontend technologies(HTML5, CSS, BootStraps, Javascrit, and other JS Libraries) and Backend technologies (JSP and Servelet) for almost a year and had done several projects.Aspiring for a challenging career in Software Development as to use my learned skills and experience for best results.I enjoy building awesome software that solves practical problems.And i also have an interest in Frontend technologies.";
 
 const About = () => {
   return (
