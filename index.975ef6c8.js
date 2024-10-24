@@ -28773,7 +28773,7 @@ const imageAltText = "desktop with books and laptop";
     {
         title: "My Resume Site",
         description: "created using HTML, CSS,Responsive Design: Seamlessly adapts to any screen size for a great user experience on both desktop and mobile.\uD83D\uDCBB Technologies Used:HTML5: CSS3: To create a visually appealing and modern design..",
-        url: "https://kumarshubhh.github.io/port/"
+        url: "https://kumarshubhh.github.io/resume/"
     }, 
 ];
 const Portfolio = ()=>{
