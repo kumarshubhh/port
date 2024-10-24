@@ -27200,7 +27200,7 @@ const imageAltText = "purple and blue abstract background";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation and Web Design. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+ */ const detailOrQuote = "I have worked on Frontend technologies(HTML5, CSS, BootStraps, Javascrit, and other JS Libraries) and Backend technologies (JSP and Servelet) for almost a year and had done several projects.Aspiring for a challenging career in Software Development as to use my learned skills and experience for best results.I enjoy building awesome software that solves practical problems.And i also have an interest in Frontend technologies.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
